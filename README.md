@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rosana Torres
 - 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning Higher Diploma in Science in Computing
+- 🌱 I’m currently learning Higher Diploma in Science in Computing - CCT College Dublin
 
 <!---
 rosanatorres/rosanatorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
