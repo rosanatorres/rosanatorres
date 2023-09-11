@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rosana Torres
-- 👀 I’m interested in FrontEnd / AWS Cloud
 - 🌱 I finished my course Higher Diploma in Science in Computing - CCT College Dublin in February 2023.
 
 <!---
